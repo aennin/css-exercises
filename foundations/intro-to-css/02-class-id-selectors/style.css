@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgb(243, 191, 200);
+    font-family: verdana, DejaVu Sans, sans-serif ;
+}
+
+#even2 {
+    color: rgb(26, 26, 226);
+    font-size: 36px;
+}
+
+.odd.three {
+    font-size: 24px;
+}
+
+#even4 {
+    background-color: rgb(70, 233, 70);
+    font-size: 24px;
+    font-weight: bold;
+}
